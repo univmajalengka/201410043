@@ -5,7 +5,7 @@
 using namespace std;
 int main()
 {
-	int j1,m1,d1,j2,m2,d2,j3,m3,d3,sm3,td1,td2,td3,hidden;
+	int j1,m1,d1,j2,m2,d2,j3,m3,d3,sm3,td1,td2,td3;
 	system ("color f0");
 	
 	cout<<"\t \t PROGRAM BILLING"<<endl;
